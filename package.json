@@ -1,0 +1,32 @@
+{
+  "name": "@fdcn/popcorn",
+  "type": "module",
+  "version": "0.0.1",
+  "main": "./nuxt.config.ts",
+  "scripts": {
+    "dev": "nuxi dev .playground",
+    "build": "nuxt build .playground",
+    "generate": "nuxt generate .playground",
+    "preview": "nuxt preview .playground",
+    "lint": "eslint .",
+    "postinstall": "nuxt prepare .playground"
+  },
+  "devDependencies": {
+    "@nuxt/eslint-config": "^0.2.0",
+    "@nuxtjs/critters": "^0.5.2",
+    "@nuxtjs/fontaine": "latest",
+    "@nuxtjs/html-validator": "latest",
+    "@vite-pwa/nuxt": "latest",
+    "@vueuse/nuxt": "latest",
+    "eslint": "^8.56.0",
+    "nuxt": "latest",
+    "nuxt-delay-hydration": "latest",
+    "nuxt-icon": "latest",
+    "nuxt-purgecss": "latest",
+    "nuxt-seo-kit": "latest",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@fdcn/nugget": "^0.1.7"
+  }
+}
