@@ -25,7 +25,7 @@ Add the dependency to their `extends` in `nuxt.config`:
 
 ```ts
 defineNuxtConfig({
-  extends: 'git:stevenjpx2/popcorn'
+  extends: 'github:stevenjpx2/popcorn'
 })
 ```
 
