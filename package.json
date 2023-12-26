@@ -13,7 +13,6 @@
   },
   "devDependencies": {
     "@nuxt/eslint-config": "^0.2.0",
-    "@nuxtjs/critters": "^0.5.2",
     "@nuxtjs/fontaine": "latest",
     "@nuxtjs/html-validator": "latest",
     "@vite-pwa/nuxt": "latest",
@@ -27,6 +26,7 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "@fdcn/nugget": "^0.1.7"
+    "@fdcn/nugget": "^0.1.7",
+    "@nuxtjs/critters": "^0.5.2"
   }
 }

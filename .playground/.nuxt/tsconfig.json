@@ -71,6 +71,9 @@
       "#nuxt-simple-robots/config": [
         "./modules/config/nuxt-simple-robots.mjs"
       ],
+      "#nuxt-simple-sitemap/config": [
+        "./modules/config/nuxt-simple-sitemap.mjs"
+      ],
       "#nuxt-og-image/config": [
         "./modules/config/nuxt-og-image.mjs"
       ],
