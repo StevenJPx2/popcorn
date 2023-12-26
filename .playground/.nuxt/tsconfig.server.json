@@ -1,0 +1,99 @@
+{
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "jsx": "preserve",
+    "allowSyntheticDefaultImports": true,
+    "jsxFactory": "h",
+    "jsxFragmentFactory": "Fragment",
+    "paths": {
+      "#imports": [
+        "./types/nitro-imports"
+      ],
+      "#paths": [
+        "../../node_modules/nuxt/dist/core/runtime/nitro/paths"
+      ],
+      "~": [
+        "./.."
+      ],
+      "~/*": [
+        "../*"
+      ],
+      "@": [
+        "./.."
+      ],
+      "@/*": [
+        "../*"
+      ],
+      "~~": [
+        "./.."
+      ],
+      "~~/*": [
+        "../*"
+      ],
+      "@@": [
+        "./.."
+      ],
+      "@@/*": [
+        "../*"
+      ],
+      "assets": [
+        "../assets"
+      ],
+      "public": [
+        "../public"
+      ],
+      "#icon-collections": [
+        "./icon-collections"
+      ],
+      "#nuxt-delay-hydration/api": [
+        "./delay-hydration"
+      ],
+      "#nuxt-schema-org/config": [
+        "./nuxt-schema-org-config"
+      ],
+      "#nuxt-simple-robots/config": [
+        "./modules/config/nuxt-simple-robots"
+      ],
+      "#nuxt-og-image/config": [
+        "./modules/config/nuxt-og-image"
+      ]
+    }
+  },
+  "include": [
+    "./types/nitro-nuxt.d.ts",
+    "../../node_modules/@nuxtjs/critters/runtime/server",
+    "../../node_modules/nuxt-icon/runtime/server",
+    "../../node_modules/nuxt-purgecss/runtime/server",
+    "../../node_modules/@vite-pwa/nuxt/runtime/server",
+    "../../node_modules/@nuxtjs/html-validator/runtime/server",
+    "../../node_modules/@nuxtjs/fontaine/runtime/server",
+    "../../node_modules/@vueuse/nuxt/runtime/server",
+    "../../node_modules/nuxt-delay-hydration/runtime/server",
+    "../../node_modules/nuxt-split-type/runtime/server",
+    "../../node_modules/@fdcn/nugget/runtime/server",
+    "../../node_modules/nuxt-seo-kit/modules/nuxt-seo-kit/module/runtime/server",
+    "../../node_modules/nuxt-schema-org/runtime/server",
+    "../../node_modules/nuxt-unhead/runtime/server",
+    "../../node_modules/nuxt-simple-robots/runtime/server",
+    "../../node_modules/nuxt-simple-sitemap/runtime/server",
+    "../../node_modules/nuxt-link-checker/runtime/server",
+    "../../node_modules/nuxt-og-image/runtime/server",
+    "../../node_modules/@nuxt/devtools/runtime/server",
+    "../../node_modules/@nuxt/telemetry/runtime/server",
+    "./types/nitro.d.ts",
+    "../**/*",
+    "../server/**/*"
+  ],
+  "exclude": [
+    "../node_modules",
+    "../../node_modules",
+    "../../node_modules/nuxt/node_modules",
+    "../dist"
+  ]
+}
