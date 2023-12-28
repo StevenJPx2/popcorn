@@ -9,6 +9,7 @@
     "build": "nuxt build .playground",
     "generate": "nuxt generate .playground",
     "preview": "nuxt preview .playground",
+    "release": "bun run lint && changelogen --release && npm publish && git push --follow-tags",
     "lint": "eslint .",
     "postinstall": "nuxt prepare .playground"
   },
@@ -24,7 +25,8 @@
     "nuxt-icon": "latest",
     "nuxt-purgecss": "latest",
     "nuxt-seo-kit": "latest",
-    "typescript": "^5.3.3"
+    "typescript": "^5.3.3",
+    "changelogen": "^0.5.5"
   },
   "dependencies": {
     "@fdcn/nugget": "^0.1.7",

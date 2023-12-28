@@ -60,9 +60,6 @@
       "#nuxt-simple-robots/config": [
         "./modules/config/nuxt-simple-robots"
       ],
-      "#nuxt-simple-sitemap/config": [
-        "./modules/config/nuxt-simple-sitemap"
-      ],
       "#nuxt-og-image/config": [
         "./modules/config/nuxt-og-image"
       ]

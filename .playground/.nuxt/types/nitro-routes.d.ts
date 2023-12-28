@@ -9,12 +9,6 @@ declare module 'nitropack' {
     '/robots.txt': {
       'default': Simplify<Serialize<Awaited<ReturnType<typeof import('../../../node_modules/nuxt-simple-robots/dist/runtime/server/robots-route').default>>>>
     }
-    '/sitemap.xml': {
-      'default': Simplify<Serialize<Awaited<ReturnType<typeof import('../../../node_modules/nuxt-simple-sitemap/dist/runtime/sitemap.xml').default>>>>
-    }
-    '/sitemap.preview.xml': {
-      'default': Simplify<Serialize<Awaited<ReturnType<typeof import('../../../node_modules/nuxt-simple-sitemap/dist/runtime/sitemap.preview.xml').default>>>>
-    }
     '/api/og-image-html': {
       'default': Simplify<Serialize<Awaited<ReturnType<typeof import('../../../node_modules/nuxt-og-image/dist/runtime/nitro/routes/html').default>>>>
     }

@@ -6,7 +6,7 @@ import cfg1 from "/Users/stevenjohn/Documents/Projects/popcorn/app.config"
 
 declare const inlineConfig = {
   "nuxt": {
-    "buildId": "dev"
+    "buildId": "919f5f52-ec1c-4a95-9b57-be956792a178"
   }
 }
 type ResolvedAppConfig = Defu<typeof inlineConfig, [typeof cfg0, typeof cfg1]>

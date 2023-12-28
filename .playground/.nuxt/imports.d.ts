@@ -36,4 +36,3 @@ export { useLocomotive } from '../../node_modules/@fdcn/nugget/dist/runtime/comp
 export { useSplitText } from '../../node_modules/nuxt-split-type/dist/runtime/composable';
 export { defineRobotMeta } from '../../node_modules/nuxt-simple-robots/dist/runtime/composables/defineRobotMeta';
 export { defineOgImageDynamic, defineOgImageStatic, defineOgImageScreenshot } from '../../node_modules/nuxt-og-image/dist/runtime/composables/defineOgImage';
-export { useNuxtDevTools } from '../../node_modules/@nuxt/devtools/dist/runtime/use-nuxt-devtools';
