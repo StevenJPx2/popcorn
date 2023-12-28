@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.4
+
+[compare changes](https://github.com/StevenJPx2/popcorn/compare/v0.0.3...v0.0.4)
+
+### 🚀 Enhancements
+
+- Add tailwind, vueuse/components, image ([27d56411](https://github.com/StevenJPx2/popcorn/commit/27d56411))
+
+### ❤️ Contributors
+
+- Steven John <stevenjpx2@gmail.com>
+
 ## v0.0.3
 
 [compare changes](https://github.com/StevenJPx2/popcorn/compare/v0.0.2...v0.0.3)
