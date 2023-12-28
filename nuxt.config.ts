@@ -12,5 +12,6 @@ export default defineNuxtConfig({
     "@vueuse/nuxt",
     "nuxt-delay-hydration",
     "@fdcn/nugget",
+    "@nuxtjs/tailwindcss"
   ],
 });

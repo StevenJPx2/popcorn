@@ -8,6 +8,7 @@
 /// <reference types="@vueuse/nuxt" />
 /// <reference types="nuxt-delay-hydration" />
 /// <reference types="@fdcn/nugget" />
+/// <reference types="@nuxtjs/tailwindcss" />
 /// <reference types="nuxt-seo-kit" />
 /// <reference types="nuxt-schema-org" />
 /// <reference types="nuxt-unhead" />

@@ -77,6 +77,7 @@
     "../../node_modules/nuxt-delay-hydration/runtime/server",
     "../../node_modules/nuxt-split-type/runtime/server",
     "../../node_modules/@fdcn/nugget/runtime/server",
+    "../../node_modules/@nuxtjs/tailwindcss/runtime/server",
     "../../node_modules/nuxt-seo-kit/modules/nuxt-seo-kit/module/runtime/server",
     "../../node_modules/nuxt-schema-org/runtime/server",
     "../../node_modules/nuxt-unhead/runtime/server",

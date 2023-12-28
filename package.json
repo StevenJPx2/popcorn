@@ -17,21 +17,22 @@
   },
   "devDependencies": {
     "@nuxt/eslint-config": "^0.2.0",
+    "changelogen": "^0.5.5",
+    "eslint": "^8.56.0",
+    "nuxt": "latest",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@fdcn/nugget": "^0.1.7",
+    "@nuxtjs/tailwindcss": "latest",
     "@nuxtjs/fontaine": "latest",
     "@nuxtjs/html-validator": "latest",
     "@vite-pwa/nuxt": "latest",
     "@vueuse/nuxt": "latest",
-    "eslint": "^8.56.0",
-    "nuxt": "latest",
+    "@nuxtjs/critters": "^0.5.2",
     "nuxt-delay-hydration": "latest",
     "nuxt-icon": "latest",
     "nuxt-purgecss": "latest",
-    "nuxt-seo-kit": "latest",
-    "typescript": "^5.3.3",
-    "changelogen": "^0.5.5"
-  },
-  "dependencies": {
-    "@fdcn/nugget": "^0.1.7",
-    "@nuxtjs/critters": "^0.5.2"
+    "nuxt-seo-kit": "latest"
   }
 }

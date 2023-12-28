@@ -20,12 +20,19 @@ Make sure to install the dependencies:
 pnpm install
 ```
 
-# Usage
+## Usage
+
+First, install the package with your favorite package manager:
+
+```bash
+pnpm install @fdcn/popcorn
+```
+
 Add the dependency to their `extends` in `nuxt.config`:
 
 ```ts
 defineNuxtConfig({
-  extends: 'github:stevenjpx2/popcorn'
+  extends: '@fdcn/popcorn'
 })
 ```
 
