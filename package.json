@@ -12,17 +12,16 @@
     "generate": "nuxt generate .playground",
     "preview": "nuxt preview .playground",
     "release": "bun run lint && changelogen --release && npm publish && git push --follow-tags",
-    "lint": "eslint .",
-    "postinstall": "nuxt prepare .playground"
+    "lint": "eslint ."
   },
   "devDependencies": {
     "@nuxt/eslint-config": "^0.2.0",
     "changelogen": "^0.5.5",
     "eslint": "^8.56.0",
+    "nuxt": "latest",
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "nuxt": "latest",
     "@fdcn/nugget": "latest",
     "@nuxtjs/critters": "latest",
     "@nuxt/image": "latest",
