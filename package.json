@@ -1,9 +1,11 @@
 {
   "name": "@fdcn/popcorn",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./nuxt.config.ts",
-  "files": ["nuxt.config.ts"],
+  "files": [
+    "nuxt.config.ts"
+  ],
   "scripts": {
     "dev": "nuxi dev .playground",
     "build": "nuxt build .playground",
