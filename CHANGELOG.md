@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.6
+
+[compare changes](https://github.com/StevenJPx2/popcorn/compare/v0.0.5...v0.0.6)
+
+### 🩹 Fixes
+
+- Remove postinstall ([a25cfb1b](https://github.com/StevenJPx2/popcorn/commit/a25cfb1b))
+
+### ❤️ Contributors
+
+- Steven John <stevenjpx2@gmail.com>
+
 ## v0.0.5
 
 [compare changes](https://github.com/StevenJPx2/popcorn/compare/v0.0.4...v0.0.5)
