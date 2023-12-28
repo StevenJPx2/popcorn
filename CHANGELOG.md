@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.3
+
+[compare changes](https://github.com/StevenJPx2/popcorn/compare/v0.0.2...v0.0.3)
+
+### 🩹 Fixes
+
+- Change package.json ([35163cba](https://github.com/StevenJPx2/popcorn/commit/35163cba))
+
+### ❤️ Contributors
+
+- Steven John <stevenjpx2@gmail.com>
+
 ## v0.0.2
 
 
