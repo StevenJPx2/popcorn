@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.5
+
+[compare changes](https://github.com/StevenJPx2/popcorn/compare/v0.0.4...v0.0.5)
+
+### 🩹 Fixes
+
+- Add nuxt to deps ([f05d1f3d](https://github.com/StevenJPx2/popcorn/commit/f05d1f3d))
+
+### ❤️ Contributors
+
+- Steven John <stevenjpx2@gmail.com>
+
 ## v0.0.4
 
 [compare changes](https://github.com/StevenJPx2/popcorn/compare/v0.0.3...v0.0.4)
