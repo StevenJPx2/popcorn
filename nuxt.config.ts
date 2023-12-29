@@ -5,7 +5,6 @@ export default defineNuxtConfig({
   modules: [
     "@nuxtjs/critters",
     "nuxt-icon",
-    "nuxt-purgecss",
     "@vite-pwa/nuxt",
     "@nuxtjs/html-validator",
     "@nuxtjs/fontaine",
@@ -13,6 +12,6 @@ export default defineNuxtConfig({
     "nuxt-delay-hydration",
     "@fdcn/nugget",
     "@nuxtjs/tailwindcss",
-    "@nuxt/image"
+    "@nuxt/image",
   ],
 });

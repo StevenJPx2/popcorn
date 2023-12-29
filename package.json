@@ -23,8 +23,8 @@
   },
   "dependencies": {
     "@fdcn/nugget": "latest",
-    "@nuxtjs/critters": "latest",
     "@nuxt/image": "latest",
+    "@nuxtjs/critters": "latest",
     "@nuxtjs/fontaine": "latest",
     "@nuxtjs/html-validator": "latest",
     "@nuxtjs/tailwindcss": "latest",
@@ -34,7 +34,6 @@
     "@vueuse/nuxt": "latest",
     "nuxt-delay-hydration": "latest",
     "nuxt-icon": "latest",
-    "nuxt-purgecss": "latest",
     "nuxt-seo-kit": "latest"
   }
 }
