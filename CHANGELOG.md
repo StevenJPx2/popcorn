@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.7
+
+[compare changes](https://github.com/StevenJPx2/popcorn/compare/v0.0.6...v0.0.7)
+
+### 🩹 Fixes
+
+- Remove purgecss ([d84ed63b](https://github.com/StevenJPx2/popcorn/commit/d84ed63b))
+
+### ❤️ Contributors
+
+- Steven John <stevenjpx2@gmail.com>
+
 ## v0.0.6
 
 [compare changes](https://github.com/StevenJPx2/popcorn/compare/v0.0.5...v0.0.6)
