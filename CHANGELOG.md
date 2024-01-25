@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.8
+
+[compare changes](https://github.com/StevenJPx2/popcorn/compare/v0.0.7...v0.0.8)
+
+### 🩹 Fixes
+
+- Remove devtools ([1c5af4d2](https://github.com/StevenJPx2/popcorn/commit/1c5af4d2))
+
+### ❤️ Contributors
+
+- Steven John <stevenjpx2@gmail.com>
+
 ## v0.0.7
 
 [compare changes](https://github.com/StevenJPx2/popcorn/compare/v0.0.6...v0.0.7)
