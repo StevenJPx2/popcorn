@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.1.1
+
+[compare changes](https://github.com/StevenJPx2/popcorn/compare/v0.1.0...v0.1.1)
+
+### 🩹 Fixes
+
+- Move dependencies back from dev ([32e186de](https://github.com/StevenJPx2/popcorn/commit/32e186de))
+
+### ❤️ Contributors
+
+- Steven John <stevenjpx2@gmail.com>
+
 ## v0.1.0
 
 [compare changes](https://github.com/StevenJPx2/popcorn/compare/v0.0.8...v0.1.0)
