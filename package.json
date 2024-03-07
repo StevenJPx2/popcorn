@@ -19,7 +19,9 @@
     "changelogen": "^0.5.5",
     "eslint": "^8.56.0",
     "nuxt": "latest",
-    "typescript": "^5.3.3",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
     "@nuxt/image": "latest",
     "@nuxt/fonts": "latest",
     "@nuxtjs/critters": "latest",
@@ -30,9 +32,7 @@
     "nuxt-delay-hydration": "latest",
     "nuxt-icon": "latest",
     "nuxt-seo-kit": "latest",
-    "@vite-pwa/nuxt": "latest"
-  },
-  "dependencies": {
+    "@vite-pwa/nuxt": "latest",
     "@fdcn/nugget": "latest",
     "@vueuse/components": "latest"
   }
