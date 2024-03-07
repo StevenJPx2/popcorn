@@ -1,6 +1,22 @@
 # Changelog
 
 
+## v0.1.0
+
+[compare changes](https://github.com/StevenJPx2/popcorn/compare/v0.0.8...v0.1.0)
+
+### 💅 Refactors
+
+- ⚠️  Move all dependencies to dev, use nuxt/fonts instead of fontaine ([57c2d03a](https://github.com/StevenJPx2/popcorn/commit/57c2d03a))
+
+#### ⚠️ Breaking Changes
+
+- ⚠️  Move all dependencies to dev, use nuxt/fonts instead of fontaine ([57c2d03a](https://github.com/StevenJPx2/popcorn/commit/57c2d03a))
+
+### ❤️ Contributors
+
+- Steven John <stevenjpx2@gmail.com>
+
 ## v0.0.8
 
 [compare changes](https://github.com/StevenJPx2/popcorn/compare/v0.0.7...v0.0.8)
