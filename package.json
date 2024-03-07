@@ -19,21 +19,21 @@
     "changelogen": "^0.5.5",
     "eslint": "^8.56.0",
     "nuxt": "latest",
-    "typescript": "^5.3.3"
-  },
-  "dependencies": {
-    "@fdcn/nugget": "latest",
+    "typescript": "^5.3.3",
     "@nuxt/image": "latest",
+    "@nuxt/fonts": "latest",
     "@nuxtjs/critters": "latest",
-    "@nuxtjs/fontaine": "latest",
     "@nuxtjs/html-validator": "latest",
     "@nuxtjs/tailwindcss": "latest",
-    "@vite-pwa/nuxt": "latest",
-    "@vueuse/components": "latest",
     "@vueuse/core": "latest",
     "@vueuse/nuxt": "latest",
     "nuxt-delay-hydration": "latest",
     "nuxt-icon": "latest",
-    "nuxt-seo-kit": "latest"
+    "nuxt-seo-kit": "latest",
+    "@vite-pwa/nuxt": "latest"
+  },
+  "dependencies": {
+    "@fdcn/nugget": "latest",
+    "@vueuse/components": "latest"
   }
 }
