@@ -1,6 +1,22 @@
 # Changelog
 
 
+## v0.3.0
+
+[compare changes](https://github.com/StevenJPx2/popcorn/compare/v0.2.0...v0.3.0)
+
+### 🩹 Fixes
+
+- ⚠️  Move nuxtjs seo from layer to module ([b10f8684](https://github.com/StevenJPx2/popcorn/commit/b10f8684))
+
+#### ⚠️ Breaking Changes
+
+- ⚠️  Move nuxtjs seo from layer to module ([b10f8684](https://github.com/StevenJPx2/popcorn/commit/b10f8684))
+
+### ❤️ Contributors
+
+- Steven John <stevenjpx2@gmail.com>
+
 ## v0.2.0
 
 [compare changes](https://github.com/StevenJPx2/popcorn/compare/v0.1.2...v0.2.0)
