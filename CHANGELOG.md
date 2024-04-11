@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.1.2
+
+[compare changes](https://github.com/StevenJPx2/popcorn/compare/v0.1.1...v0.1.2)
+
+### 🩹 Fixes
+
+- Remove critters as it doesn't play well with tailwind deep classes ([af556546](https://github.com/StevenJPx2/popcorn/commit/af556546))
+
+### ❤️ Contributors
+
+- Steven John <stevenjpx2@gmail.com>
+
 ## v0.1.1
 
 [compare changes](https://github.com/StevenJPx2/popcorn/compare/v0.1.0...v0.1.1)
