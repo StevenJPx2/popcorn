@@ -1,6 +1,22 @@
 # Changelog
 
 
+## v0.2.0
+
+[compare changes](https://github.com/StevenJPx2/popcorn/compare/v0.1.2...v0.2.0)
+
+### 🚀 Enhancements
+
+- ⚠️  Remove nuxt-seo-kit for @nuxtjs/seo ([c3d907ad](https://github.com/StevenJPx2/popcorn/commit/c3d907ad))
+
+#### ⚠️ Breaking Changes
+
+- ⚠️  Remove nuxt-seo-kit for @nuxtjs/seo ([c3d907ad](https://github.com/StevenJPx2/popcorn/commit/c3d907ad))
+
+### ❤️ Contributors
+
+- Steven John <stevenjpx2@gmail.com>
+
 ## v0.1.2
 
 [compare changes](https://github.com/StevenJPx2/popcorn/compare/v0.1.1...v0.1.2)
