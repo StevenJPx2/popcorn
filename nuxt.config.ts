@@ -1,7 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enable: true },
-  extends: ["nuxt-seo-kit"],
+  extends: ["@nuxtjs/seo"],
   modules: [
     "nuxt-icon",
     "@vite-pwa/nuxt",

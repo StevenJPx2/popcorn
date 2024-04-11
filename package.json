@@ -30,9 +30,10 @@
     "@vueuse/nuxt": "latest",
     "nuxt-delay-hydration": "latest",
     "nuxt-icon": "latest",
-    "nuxt-seo-kit": "latest",
+    "@nuxtjs/seo": "latest",
     "@vite-pwa/nuxt": "latest",
     "@fdcn/nugget": "latest",
     "@vueuse/components": "latest"
   }
 }
+
