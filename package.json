@@ -24,7 +24,6 @@
   "dependencies": {
     "@nuxt/image": "latest",
     "@nuxt/fonts": "latest",
-    "@nuxtjs/critters": "latest",
     "@nuxtjs/html-validator": "latest",
     "@nuxtjs/tailwindcss": "latest",
     "@vueuse/core": "latest",
@@ -37,3 +36,4 @@
     "@vueuse/components": "latest"
   }
 }
+
