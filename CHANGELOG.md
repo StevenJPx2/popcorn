@@ -1,6 +1,22 @@
 # Changelog
 
 
+## v0.4.0
+
+[compare changes](https://github.com/StevenJPx2/popcorn/compare/v0.3.0...v0.4.0)
+
+### 🚀 Enhancements
+
+- ⚠️  Change package manager from bun to yarn ([06efbf37](https://github.com/StevenJPx2/popcorn/commit/06efbf37))
+
+#### ⚠️ Breaking Changes
+
+- ⚠️  Change package manager from bun to yarn ([06efbf37](https://github.com/StevenJPx2/popcorn/commit/06efbf37))
+
+### ❤️ Contributors
+
+- Steven John <stevenjpx2@gmail.com>
+
 ## v0.3.0
 
 [compare changes](https://github.com/StevenJPx2/popcorn/compare/v0.2.0...v0.3.0)
