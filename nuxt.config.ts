@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   devtools: { enable: true },
   modules: [
     "@nuxtjs/seo",
-    "nuxt-icon",
+    "@nuxt/icon",
     "@vite-pwa/nuxt",
     "@nuxtjs/html-validator",
     "@vueuse/nuxt",

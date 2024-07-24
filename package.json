@@ -11,7 +11,7 @@
     "build": "nuxt build .playground",
     "generate": "nuxt generate .playground",
     "preview": "nuxt preview .playground",
-    "release": "bun run lint && changelogen --release && npm publish && git push --follow-tags",
+    "release": "yarn run lint && changelogen --release && npm publish && git push --follow-tags",
     "lint": "eslint ."
   },
   "devDependencies": {
@@ -29,7 +29,7 @@
     "@vueuse/core": "latest",
     "@vueuse/nuxt": "latest",
     "nuxt-delay-hydration": "latest",
-    "nuxt-icon": "latest",
+    "@nuxt/icon": "latest",
     "@nuxtjs/seo": "latest",
     "@vite-pwa/nuxt": "latest",
     "@fdcn/nugget": "latest",
