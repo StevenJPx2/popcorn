@@ -1,0 +1,15 @@
+{
+  "body": [
+    "A **Nuxt layer** published as `@fdcn/popcorn`. Add it to `extends` in `nuxt.config` and several sites share the same starting setup.",
+    "It bundles **animation helpers**, **page optimisers** (inline critical CSS, offloaded JavaScript, font overrides and partial hydration) and **SEO** setup."
+  ],
+  "areas": [
+    "developer-tools",
+    "web-applications"
+  ],
+  "technologies": {
+    "add": [
+      "nuxt"
+    ]
+  }
+}
